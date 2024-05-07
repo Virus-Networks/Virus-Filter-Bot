@@ -21,7 +21,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/4c2b720eea2459abf349d.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://telegra.ph/file/e818dd3779abfd2877581.jpg https://telegra.ph/file/8f378038a84053056689a.jpg https://telegra.ph/file/4d6495f3ea6781cf93c9f.jpg https://telegra.ph/file/f9e836795e811b7600394.jpg https://telegra.ph/file/718aedd746f6b1f7f4823.jpg https://telegra.ph/file/461385e84273c70fbcee9.jpg https://telegra.ph/file/8de3e421f158f28216da5.jpg https://telegra.ph/file/5c17c1e569d8a439c64d5.jpg https://telegra.ph/file/de5d2daadd792cfc07a09.jpg https://telegra.ph/file/3dfd1d98cacbc408bf9b4.jpg https://telegra.ph/file/b51b0420cce026b39a1f4.jpg https://telegra.ph/file/7d33e296435f6afb80270.jpg https://telegra.ph/file/4c2b720eea2459abf349d.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
@@ -35,7 +35,7 @@ STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Virus_Botz/34'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001971879597 -1002091805579 -1002014251285 -1002014561589').split()] #Channel id for auto indexing ( make sure bot is admin )
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002111529078 -1002132969232').split()] #Channel id for auto indexing ( make sure bot is admin )
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
@@ -55,13 +55,13 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Verify
-VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
+VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/Virus_Botz/34') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'krishnalink.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '1494a54146906d90579ad637308b265b3c159849')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
