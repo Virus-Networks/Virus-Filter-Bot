@@ -59,8 +59,8 @@ VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( Fa
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/kaisekhole/8') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Zxlink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '72fe2cd23d0e62ef0ab8efa493a78dff1f311cc2')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Krishnalink.com ')
+SHORTLINK_API = environ.get('SHORTLINK_API', '6ac6f2011d1ce803a0f9073721e1dff72e47c0d3')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
@@ -68,7 +68,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nyWaUe_gzvUxNDll')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/BoB_Files1')
-TUTORIAL = environ.get('TUTORIAL', '') # Tutorial video link for opening shortlink website 
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/kaisekhole/8') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001844691460')) #Log channel id ( make sure bot is admin )
