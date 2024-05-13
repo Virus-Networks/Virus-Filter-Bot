@@ -250,7 +250,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
     CAPTION = """<b>💫 ʝσιɳ : <a href=https://t.me/Virus_Networks/4>會๛『 𝐕𝐢𝐫𝐮𝐬 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 』</a>
 
-🎬 тιтℓє : <a href=https://t.me/Virus_Studios/436>{file_name}</a>
+🎬 тιтℓє : <a href=https://t.me/Virus_Studios/436>{file_caption}</a>
 
 ♻️ ѕιzє ➠ : {file_size}</b>"""
 
