@@ -104,7 +104,7 @@ if 'DYNO' in environ:
     APP_NAME = environ.get('APP_NAME')
 else:
     ON_HEROKU = False
-BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://bobfiles-f4c7be58a041.herokuapp.com/'))
+BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://wideanglemedia-656c56d2d290.herokuapp.com/'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
 URL = "https://{}/".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://{}/".format(FQDN, PORT)
@@ -122,12 +122,12 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://bobfiles-f4c7be58a041.herokuapp.com/".format(FQDN)
+    URL = "https://wideanglemedia-656c56d2d290.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://bobfiles-f4c7be58a041.herokuapp.com/".format(FQDN)
+    URL = "https://wideanglemedia-656c56d2d290.herokuapp.com/".format(FQDN)
 
 # add premium logs channel id
-PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1001844691460'))
+PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002022113484'))
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
