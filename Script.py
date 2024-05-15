@@ -8,7 +8,7 @@ class script(object):
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
 
     ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : {}
-    ‣ ᴏᴡɴᴇʀ : <a href='https://t.me/BoB_Files1'>ʙᴏʙ ғɪʟᴇs</a>
+    ‣ ᴏᴡɴᴇʀ : <a href='https://t.me/WideAngleMedia'>ᴡɪᴅᴇ ᴀɴɢʟᴇ ᴍᴇᴅɪᴀ</a>
     ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Virus_botz'>ᴠɪʀᴜs ʙᴏᴛᴢ</a>
     ‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
     ‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
@@ -31,7 +31,7 @@ class script(object):
 ‣ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code>
 ‣ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code>
 
-Bʏ @Naruto_Uzumaki99_bot</b>"""
+Bʏ @AutoEditing_bot</b>"""
 
     LOG_TEXT_G = """#NewGroup
     
@@ -40,14 +40,14 @@ Iᴅ = <code>{}</code>
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}
 
-Bʏ @Naruto_Uzumaki99_bot"""
+Bʏ @AutoEditing_bot"""
 
     LOG_TEXT_P = """#NewUser
     
 Iᴅ - <code>{}</code>
 Nᴀᴍᴇ - {}
 
-Bʏ @Naruto_Uzumaki99_bot"""
+Bʏ @AutoEditing_bot"""
 
     ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ,
@@ -67,7 +67,7 @@ Bʏ @Naruto_Uzumaki99_bot"""
 
 2) ᴛʏᴘᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ʏᴇᴀʀ
 
-3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @ASSAULTER_SHIV</b>"""
+3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @GogB1Tc</b>"""
 
     I_CUD_NT = """<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 
@@ -77,7 +77,7 @@ Bʏ @Naruto_Uzumaki99_bot"""
 
 2) ᴛʏᴘᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ʏᴇᴀʀ
 
-3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @ASSAULTER_SHIV</b>"""
+3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @GogB1Tc</b>"""
 
     MVE_NT_FND = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ 😕
 
@@ -87,7 +87,7 @@ Bʏ @Naruto_Uzumaki99_bot"""
 
 2) ᴛʏᴘᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ʏᴇᴀʀ
 
-3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @ASSAULTER_SHIV</b>"""
+3) ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @GogB1Tc</b>"""
     
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ ꜰᴏʀ ǫᴜᴇʀʏ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -247,7 +247,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʜᴇʟᴘɪɴɢ ɪɴ ᴛʜɪꜱ ᴀᴍᴀᴢɪɴɢ ʀᴏʟʟᴇʀ ᴄᴏᴀꜱᴛᴇʀ ᴊᴏᴜʀɴᴇʏ 🚀</b>""" 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """{file_name}"""
+    CAPTION = """<b><a href="https://telegram.me/wideanglemedia">{filename}</a></b>
+
+📁<b> {filesize}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -263,7 +265,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 〄 Story : {plot}
 
 
-會 ʝσιɳ ๛『 @BoB_Files1 』</b>
+會 ʝσιɳ ๛『 @WideAngleMedia』</b>
 """
     
 
@@ -275,7 +277,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @Naruto_Uzumaki99_bot</b>"""
+Bʏ @AutoEditing_bot</b>"""
 
     LOGO = """
 
@@ -299,8 +301,8 @@ BOT WORKING PROPERLY"""
 3 Mᴏɴᴛʜ = 120 Rs
 12 Mᴏɴᴛʜ = 450 Rs
 
-💵 ᴜᴘɪ ɪᴅ - <code>Mishraji99@fam</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>   </code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='    '>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -316,8 +318,8 @@ BOT WORKING PROPERLY"""
 3 Mᴏɴᴛʜ = 120 Rs
 12 Mᴏɴᴛʜ = 450 Rs
 
-💵 ᴜᴘɪ ɪᴅ - <code>Mishraji99@fam</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>       </code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='    '>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -404,7 +406,7 @@ BOT WORKING PROPERLY"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/DeletedFromEarth'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/GogB1Tc'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -423,7 +425,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='  '>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -437,8 +439,8 @@ BOT WORKING PROPERLY"""
 3 Mᴏɴᴛʜ = 120 Rs
 12 Mᴏɴᴛʜ = 450 Rs
 
-💵 ᴜᴘɪ ɪᴅ - <code>Mishraji99@fam</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/db1d1f4ebf34bd1cb7ac8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>  </code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='   '>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -447,5 +449,5 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='t.me/MrVirus02Bot'>會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』</a></b>
+-Dev [Developers of this bot ]<a href='t.me/MrVirus02Bot'>會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』</a></b>
 """
