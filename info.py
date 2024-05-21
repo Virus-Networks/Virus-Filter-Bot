@@ -29,22 +29,22 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/7f9ef51078f
 CODE = (environ.get('CODE', 'https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
-STREAM_API = (environ.get('STREAM_API', 'vg5WHWLa4iZ6G1HlAQim2H99llw1'))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Virus_Botz/34'))
+STREAM_SITE = (environ.get('STREAM_SITE', ''))
+STREAM_API = (environ.get('STREAM_API', ''))
+STREAMHTO = (environ.get('STREAMHTO', ''))
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001971879597 -1002091805579 -1002014251285 -1002014561589').split()] #Channel id for auto indexing ( make sure bot is admin )
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163 7013496553').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002032139192 -1002030281345').split()] #Channel id for auto indexing ( make sure bot is admin )
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1001402115130') #Channel / Group Id for force sub ( make sure bot is admin )
+auth_channel = environ.get('AUTH_CHANNEL', '-1001752678272') #Channel / Group Id for force sub ( make sure bot is admin )
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
-support_chat_id = environ.get('SUPPORT_CHAT_ID', 'mrvirus02bot') # support group id ( make sure bot is admin )
-reqst_channel = environ.get('REQST_CHANNEL_ID', '') # request channel id ( make sure bot is admin )
+support_chat_id = environ.get('SUPPORT_CHAT_ID', 'SweetGujjuPremiumFilterBot') # support group id ( make sure bot is admin )
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002041557571') # request channel id ( make sure bot is admin )
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True)) # True if you want no results messages in Log Channel
@@ -55,24 +55,24 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Verify
-VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
+VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/Virus_Botz/34') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'krishnalink.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '1494a54146906d90579ad637308b265b3c159849')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+SHORTLINK_API = environ.get('SHORTLINK_API', '459369cd2dc592bcaac229c1535619e8d27ada82')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nyWaUe_gzvUxNDll')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/virus_networks')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+fEEkXdkyj_RhZDc1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/SWEETGUJJU')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Virus_Botz/34') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 會๛『 𝗠𝗿𝗩𝗶𝗿𝘂𝘀𝟬𝟮 』')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '')) #Log channel id ( make sure bot is admin )
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/VIRUS_BOTZ_SUPPORT_GROUP') #Support group link ( make sure bot is admin )
+MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : M͜͡ Ʀ⩔ɨƦ⩏ន₀₂ ')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002041557571')) #Log channel id ( make sure bot is admin )
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+fEEkXdkyj_RhZDc1') #Support group link ( make sure bot is admin )
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -104,7 +104,7 @@ if 'DYNO' in environ:
     APP_NAME = environ.get('APP_NAME')
 else:
     ON_HEROKU = False
-BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://filterbot-04b426038ed4.herokuapp.com/'))
+BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://sweetgujju-eeeeaa94b5cb.herokuapp.com/'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
 URL = "https://{}/".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://{}/".format(FQDN, PORT)
@@ -122,12 +122,12 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://filterbot-04b426038ed4.herokuapp.com/".format(FQDN)
+    URL = "https://sweetgujju-eeeeaa94b5cb.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://filterbot-04b426038ed4.herokuapp.com/".format(FQDN)
+    URL = "https://sweetgujju-eeeeaa94b5cb.herokuapp.com/".format(FQDN)
 
 # add premium logs channel id
-PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1001995831309'))
+PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002041557571'))
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
