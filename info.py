@@ -59,8 +59,8 @@ VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( Fa
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/Virus_Botz/34') # How to open tutorial link for verification
 
 # Others
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'krishnalink.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '459369cd2dc592bcaac229c1535619e8d27ada82')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '291ce2cd6c5f221c24214c3436c417b644d66cd8')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "10")
