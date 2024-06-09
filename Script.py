@@ -299,8 +299,8 @@ BOT WORKING PROPERLY"""
 ● 200₹ ➛ ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ » 180 ᴅᴀʏꜱ
 ● 350₹ ➛ ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ » 360 ᴅᴀʏꜱ
 
-💵 ᴜᴘɪ ɪᴅ - <code></code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>Visl5208@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/b6a20b393e0c0f1d4e828.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -316,8 +316,8 @@ BOT WORKING PROPERLY"""
 ● 200₹ ➛ ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ » 180 ᴅᴀʏꜱ
 ● 350₹ ➛ ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ » 360 ᴅᴀʏꜱ
 
-💵 ᴜᴘɪ ɪᴅ - <code>vmp.070403-1@okicici</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>Visl5208@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/b6a20b393e0c0f1d4e828.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -415,7 +415,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>vmp.070403-1@okicici</code>
+💵 ᴜᴘɪ ɪᴅ - <code>Visl5208@ybl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -423,7 +423,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/b6a20b393e0c0f1d4e828.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -437,8 +437,8 @@ BOT WORKING PROPERLY"""
 ● 200₹ ➛ ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ » 180 ᴅᴀʏꜱ
 ● 350₹ ➛ ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ » 360 ᴅᴀʏꜱ
 
-💵 ᴜᴘɪ ɪᴅ - <code>vmp.070403-1@okicici</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/c216b7e901ce3b90a27b9.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>Visl5208@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/b6a20b393e0c0f1d4e828.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
