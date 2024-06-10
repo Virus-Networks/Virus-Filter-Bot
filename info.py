@@ -52,7 +52,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True)) # True if you want no
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Sairat:YD8dCAaELKyAXrPK@cluster0.aexnusr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'sairat')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'sairat1')
 
 # Verify
 VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
