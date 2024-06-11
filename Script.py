@@ -249,7 +249,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 〄 Name : {title} ({year}) 
 
 〄 Language : #Hindi {languages}
-〄 Release Date : {RELEASE_INFO}
 〄 Genere : {genres}
 〄 Rating : {rating}
 〄 Duration : {runtime}
