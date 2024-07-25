@@ -104,7 +104,7 @@ if 'DYNO' in environ:
     APP_NAME = environ.get('APP_NAME')
 else:
     ON_HEROKU = False
-BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://filterbot-04b426038ed4.herokuapp.com/'))
+BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', 'https://sleepy-atlante-viraj02-b058d680.koyeb.app/'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
 URL = "https://{}/".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://{}/".format(FQDN, PORT)
@@ -122,9 +122,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',True))
 if HAS_SSL:
-    URL = "https://filterbot-04b426038ed4.herokuapp.com/".format(FQDN)
+    URL = "https://sleepy-atlante-viraj02-b058d680.koyeb.app/".format(FQDN)
 else:
-    URL = "https://filterbot-04b426038ed4.herokuapp.com/".format(FQDN)
+    URL = "https://sleepy-atlante-viraj02-b058d680.koyeb.app/".format(FQDN)
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1001995831309'))
