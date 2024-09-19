@@ -255,18 +255,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """<b>💫 ʝσιɳ : <a href=https://t.me/SWEETGUJJU>Sweetgujju</a>
-
-🎬 тιтℓє : <a href=https://t.me/SWEETGUJJU>{file_name}</a>
-
-♻️ ѕιzє ➠ : {file_size}</b>"""
+    CAPTION = """<a href=https://t.me/SWEETGUJJU>{file_name}</a>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
 〄 Name : {title} ({year}) 
 
-〄 Language : #Hindi {languages}
+〄 Language : {languages}
 〄 Genere : {genres}
 〄 Rating : {rating}
 〄 Duration : {runtime}
